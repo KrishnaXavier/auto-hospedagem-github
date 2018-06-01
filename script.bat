@@ -13,7 +13,7 @@ git checkout gh-pages
 
 
 :: origem do código que vai ser hospedado, caso não seja o master trocar
-git pull origin branch_fonte
+git pull origin %branch_fonte%
 
 
 :: upando as alterações
@@ -22,4 +22,4 @@ REM[Informe seus dados de acesso, caso solicitado]
 
 git push origin gh-pages
 
-git checkout branch_fonte
+git checkout %branch_fonte%
