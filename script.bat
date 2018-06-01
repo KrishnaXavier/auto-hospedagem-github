@@ -18,6 +18,6 @@ git add .
 
 git commit -a -m
 
-REM[Informe seus dados de acesso, caso solicitado:]
+REM[Informe seus dados de acesso, caso solicitado]
 
 git push origin gh-pages
