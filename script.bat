@@ -17,7 +17,8 @@ git pull origin branch_fonte
 
 
 :: upando as alterações
-REM[Informe seus dados de acesso, caso solicitado:]
+REM[Informe seus dados de acesso, caso solicitado]
+
 
 git push origin gh-pages
 
