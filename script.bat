@@ -1,6 +1,6 @@
 REM[source project: https://github.com/KrishnaXavier/auto-hospedagem-github]
 
-
+REM[IMPORTANTE: salvar todas as alterações no branch fonte, pode ser o branch master, antes de executar esse script]
 
 :: Configurações
 
